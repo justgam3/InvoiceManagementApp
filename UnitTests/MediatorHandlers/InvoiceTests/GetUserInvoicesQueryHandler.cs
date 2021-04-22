@@ -1,11 +1,7 @@
 ﻿using AutoMapper;
 using InvoiceManagementApp.Application.Common.Interfaces;
 using InvoiceManagementApp.Application.Invoices.Queries;
-using InvoiceManagementApp.Domain.Entities;
-using Microsoft.EntityFrameworkCore;
 using Moq;
-using System;
-using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 using Xunit;
